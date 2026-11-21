@@ -50,10 +50,10 @@ npm install
 
 ```json
 {
-  "serverHost": "yourserver.aternos.me",
-  "serverPort": 25565,
-  "botUsername": "MyBotName",
-  "botChunk": 4
+  "serverHost": "Vasuannan67.aternos.me",
+  "serverPort": 19132,
+  "botUsername": "rahul ",
+  "botChunk": 5
 }
 ```
 
@@ -79,10 +79,10 @@ On successful connection:
 
 | Key            | Description                                |
 | -------------- | ------------------------------------------ |
-| `serverHost`         | IP or domain of your Minecraft server      |
-| `serverPort`         | Server port (default is 25565)             |
-| `botUsername`     | The bot's visible name in-game             |
-| `botChunk` | Radius of loaded chunks (recommended: 1–6) |
+| `Vasuannan67.aternos.me`         | IP or domain of your Minecraft server      |
+| `19132`         | Server port (default is 25565)             |
+| `Rahul`     | The bot's visible name in-game             |
+| `5` | Radius of loaded chunks (recommended: 1–6) |
 
 ---
 
